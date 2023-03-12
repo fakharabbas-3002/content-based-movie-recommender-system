@@ -4,7 +4,7 @@
 
 Below use cases can be for this analysis.
 - If user have opened a movie then you can show him top n movies similar to it.
-- Can recommend top n movies to user against his last rated movie.
+- Can recommend top n movies to user against his last rated movie. 
 
 Files and details about repo is below. 
 - "Exploratory Analysis - Content.ipynb" is for basic exploratory analysis to get to know the data.
