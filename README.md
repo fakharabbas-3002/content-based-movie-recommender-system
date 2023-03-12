@@ -11,6 +11,8 @@ Files and details about repo is below.
 - "Content based recommendation system.ipynb" is main file for recommender system. I am showing 3 exapmles at the end and exporting data in pickle for web interface.
 - "movie_recom.py" is getting similarty scores from previois model and generating streamlit based web application to recomment top 5 related movies against selected movie in drop down. Below is screeshot for web application. 
 
+### Below is screenshot for web application which you can build yourself with just running this code.
+
 ![Web interface for movie recommendation (code is in movie_recom py)](https://user-images.githubusercontent.com/22819467/224561529-44c03e34-a916-4aa6-8435-c878ca90e2fa.png)
 
 ##### I am "hetrec2011-movielens-2k" dataset for this analysis. Data is included in data folder of this repo. Details of dataset are below.
