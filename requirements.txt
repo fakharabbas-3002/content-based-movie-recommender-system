@@ -1,0 +1,3 @@
+######### Requirements for contect based movie recommender system #########
+pandas
+sklearn
